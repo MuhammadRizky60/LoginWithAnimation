@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="my_light_primary">#1A237E</color>
+    <color name="my_light_accent">#FFD700</color>
+    <color name="my_light_text_primary">#000000</color>
+    <color name="my_light_text_secondary">#757575</color>
+
+    <style name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorSecondary">@color/my_light_accent</item>
+        <item name="android:textColorPrimary">@color/my_light_text_primary</item>
+        <item name="android:textColorSecondary">@color/my_light_text_secondary</item>
+    </style>
+
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
+</resources>

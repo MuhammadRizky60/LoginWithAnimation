@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">If you want to upload story? Story App is the Solution</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Fill your data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Fill your data</string>
+    <string name="title_login_page">Ready to upgrade your skill?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome to Story App.</string>
+    <string name="logout">Logout</string>
+    <string name="email_kosong">Email is Empty</string>
+    <string name="add_your_description_here">Add your description here...</string>
+    <string name="empty_image">Upload your image!!</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="next">Next</string>
+    <string name="success_login">Logged in</string>
+    <string name="success_upload">Upload Success</string>
+    <string name="success_signup">Signup Success </string>
+    <string name="error_signup">Complete your personal details first</string>
+
+</resources>

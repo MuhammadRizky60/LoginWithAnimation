@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Jika ingin upload story, Story App solusinya</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="logout">Keluar</string>
+    <string name="email_kosong">Email Belum di Isi</string>
+    <string name="add_your_description_here">Tambahkan Deskripsi disini</string>
+    <string name="empty_image">Masukkan berkas gambar terlebih dahulu</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="next">Lanjut</string>
+    <string name="success_login">Anda telah berhasil login</string>
+    <string name="success_upload">Anda telah berhasil upload</string>
+    <string name="success_signup">Anda berhasil daftar</string>
+    <string name="error_signup">Lengkapi data dirimu terlebih dahulu</string>
+
+</resources>
